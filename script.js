@@ -11,22 +11,19 @@ const collectEmployees = function () {
     const lastName = window.prompt("Please enter the Employee's Last Name");
     let salary = window.prompt("Please enter the Employee's salary");
     const employee = {
-      firstName:firstName,
-      lastName:lastName,
-      salary:parseFloat(salary),
+      firstName: firstName,
+      lastName: lastName,
+      salary: parseFloat(salary),
     }
     employeesArray.push(employee);
-    
+
     repeat = confirm("Do you wish to add an employee?");
-    }
-    return employeesArray;
   }
-  console.log(employeesArray);
+  return employeesArray;
+}
+console.log(employeesArray);
 
 // TODO: Get user input to create and return an array of employee objects
-
-
-
 
 // Display the average salary
 const displayAverageSalary = function (employeesArray) {
@@ -43,11 +40,9 @@ const displayAverageSalary = function (employeesArray) {
 // Select a random employee
 const getRandomEmployee = function (employeesArray) {
   // TODO: Select and display a random employee
-  const randomEmployee = employeesArray[Math.floor(Math.random()*employeesArray.length)];
-    console.log(`Congratulations to ${randomEmployee.firstName} ${randomEmployee.lastName}, our random drawing winner!`)
+  const randomEmployee = employeesArray[Math.floor(Math.random() * employeesArray.length)];
+  console.log(`Congratulations to ${randomEmployee.firstName} ${randomEmployee.lastName}, our random drawing winner!`)
 }
-
-
 
 /*
   ====================
