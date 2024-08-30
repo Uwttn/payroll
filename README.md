@@ -15,5 +15,7 @@ A simple web application for managing generating payroll salary reports.
 2. Enter Employee data.
 3. Generates a table.
 
+## Deployed project
 
+![payroll](assets/image.png)
 
