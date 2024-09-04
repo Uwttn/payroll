@@ -1,10 +1,10 @@
 <div align="center">
 
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-0078d7?style=plastic&logo=VisualStudioCode&logoWidth=10)](https://code.visualstudio.com/docs)
-[![HTML](https://img.shields.io/badge/Language-HTML-e34c26?style=plastic&logo=HTML5&logoWidth=10)](https://www.w3schools.com/html/default.asp)
-[![CSS](https://img.shields.io/badge/Language-CSS-039BE5?style=plastic&logo=css3&logoWidth=10&logoColor=039BE5
-)](https://www.w3schools.com/css/)
-[![Javascript](https://img.shields.io/badge/Language-JavaScript-f0db4f?style=plastic&logo=JavaScript&logoWidth=10)](https://www.w3schools.com/js/default.asp)
+
+[![HTML](https://img.shields.io/badge/Language-HTML-E34F26?style=plastic&logo=html5&logoWidth=10&logoColor=E34F26)](https://www.w3schools.com/html/)
+[![CSS](https://img.shields.io/badge/Language-CSS-1572B6?style=plastic&logo=css3&logoWidth=10&logoColor=1572B6)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/Language-js-f7df1e?style=plastic&logo=css3&logoWidth=10&logoColor=f7df15)](https://www.w3schools.com/css/)
+
 
 </div>
 
