@@ -3,7 +3,7 @@
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-0078d7?style=plastic&logo=VisualStudioCode&logoWidth=10)](https://code.visualstudio.com/docs)
 [![HTML](https://img.shields.io/badge/Language-HTML-e34c26?style=plastic&logo=HTML5&logoWidth=10)](https://www.w3schools.com/html/default.asp)
 [![CSS](https://img.shields.io/badge/Language-CSS-264de4?style=plastic&logo=CSS&logoWidth=10)](https://www.w3schools.com/css/)
-[![Javascript](https://img.shields.io/badge/Language-JavaScript-f0db4f?style=plastic&logo=JavaScript&logoWidth=10)](https://javascript.info/)
+[![Javascript](https://img.shields.io/badge/Language-JavaScript-f0db4f?style=plastic&logo=JavaScript&logoWidth=10)](https://www.w3schools.com/js/default.asp)
 
 </div>
 
