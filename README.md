@@ -24,7 +24,3 @@ A simple web application for managing generating payroll salary reports.
 # Deployed project
 
 [![payroll](assets/image.png)](https://uwttn.github.io/payroll/)
-
-## Acknowledgements
-
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
